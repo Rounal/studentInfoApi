@@ -1,0 +1,17 @@
+com\roudraveergobin\studentinfo\service\StudentInfoServiceImpl.class
+com\roudraveergobin\studentinfo\model\Groups.class
+com\roudraveergobin\studentinfo\mapper\MarksMapper.class
+com\roudraveergobin\studentinfo\dao\SubjectsDao.class
+com\roudraveergobin\studentinfo\model\Subjects.class
+com\roudraveergobin\studentinfo\StudentInfoApiApplication.class
+com\roudraveergobin\studentinfo\mapper\StudentsMapper.class
+com\roudraveergobin\studentinfo\controller\StudentInfoController.class
+com\roudraveergobin\studentinfo\model\Students.class
+com\roudraveergobin\studentinfo\dao\MarksDao.class
+com\roudraveergobin\studentinfo\model\Teacher.class
+com\roudraveergobin\studentinfo\model\Marks.class
+com\roudraveergobin\studentinfo\dao\TeacherDao.class
+com\roudraveergobin\studentinfo\domain\User.class
+com\roudraveergobin\studentinfo\dao\GroupsDao.class
+com\roudraveergobin\studentinfo\service\StudentInfoService.class
+com\roudraveergobin\studentinfo\dao\StudentsDao.class
